@@ -10,7 +10,7 @@ import CharacerSheet from './components/CharacerSheet.vue'
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    CharacerSheet
   }
 }
 </script>
