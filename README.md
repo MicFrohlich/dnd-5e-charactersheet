@@ -1,29 +1,7 @@
-# my-char
+Reference:
 
-## Project setup
-```
-npm install
-```
+"Quick Deploy of Interactive CharacterSheet with VueJS"
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Thank You: u/nevertras for your post on https://www.reddit.com/r/dndnext/comments/6b8gv5/5e_character_sheet_with_pure_htmlcss/ 2 years ago!
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Site is an Interactive purely-CSS DnD 5e Character Sheet, Personalised per use
