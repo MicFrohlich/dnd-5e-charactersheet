@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <CharacerSheet msg="Welcome to Your Vue.js App"/>
+    <CharacerSheet/>
   </div>
 </template>
 
