@@ -1002,5 +1002,5 @@ form.charsheet main section.features div textarea {
 <script>
 export default {
     name: 'CharacerSheet',
-    props: {},
+    props: {},g
 }
